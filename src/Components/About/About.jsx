@@ -25,14 +25,17 @@ const About = () => {
         </h1>
         <div className={styles.borderBottom} />
         <p style={{ color: `${newTheme.para}` }} className={styles.aboutMe}>
-          Hello! My name is Subhransu and I like to build websites/application that
-          serves the world and always want to enhance my knowledge & adpot new
-          technologies that make impact on people. My interest in web
-          development started when I joined Masai School to learn full stack
-          Web-Development — taught me alot about HTML & CSS. <br />
+          Hello! My name is Subhransu and I like to build websites/application
+          that serves the world and always want to enhance my knowledge & adpot
+          new technologies that make impact on people. 2 + years of proven
+          software industry experience worked on multiple WIFI products related
+          to technology, and Android applications, where I contribute as Node,
+          Angular, and React developers.
+          <br />
           <br /> Fast Forwarding to today, I built a number of web applications
-          and major projects. Learned a great deal about teamwork, leadership,
-          and communication. After 2 Years of Experience, here I am
+          and major projects. Experienced in MERN stack development Mongo dB,
+          Express, Node, and React. Learned a great deal about teamwork,
+          leadership, and communication. After 2 Years of Experience, here I am
           <span style={{ color: `#00a0a0` }}>
             {" "}
             looking for an opportunity as a full stack web developer
