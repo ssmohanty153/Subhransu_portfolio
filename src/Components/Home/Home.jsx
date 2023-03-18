@@ -5,7 +5,7 @@ import SideIcons from "../SideIcons/SideIcons";
 import TechStacks from "../TechStacks/TechStacks";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import img1 from "../../assets/subhransu_photo.jpg"
+import img1 from "../../assets/subhransu_cover_photo.jpeg"
 import { Button } from "../Button/Button";
 import About from "../About/About";
 import { projects } from "../../Utils/Projects";
