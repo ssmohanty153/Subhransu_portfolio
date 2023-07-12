@@ -21,4 +21,15 @@ export const projects = [
       "JavaScript",
       "React"
     ],
-  }];
+  },
+  {
+    img: "https://cdn.almowafir.com/1/Banggood-846x580.jpg",
+    title: "Banggood-Clone",
+    des: "This is the clone of Banggood website. Global Leading Online Shop. Buy 3d printer, rc toys, cell phones, home appliances, tv box, home&garden, apparel with great prices on banggood.com.",
+    demo: "",
+    live: " https://banggood-clone-masai.netlify.app/",
+    gitHub: "https://github.com/ssmohanty153/Banggood-Clone",
+    technologies: ["HTML", "CSS", "JavaScript"],
+  },
+
+];
